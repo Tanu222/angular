@@ -1,0 +1,14 @@
+project initialization
+
+https://developer.okta.com/blog/2020/01/21/angular-material-login
+
+https://www.youtube.com/watch?v=38JJ0hDQoos
+https://github.com/ThomasOliver545/angular-material-login-and-register-example
+
+npm install -g @angular/cli
+npx @angular/cli@13 new material-tic-tac-toe
+//npm install -E @angular/flex-layout@13.0.0-beta.36 tic-tac-toe-minimax@1.0.8
+ng add @angular/material@13	
+
+ng generate component user-login
+ng generate component user-profile
